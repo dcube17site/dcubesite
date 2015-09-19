@@ -1,49 +1,54 @@
-            #header {
-                
-                background-color:black;
-                color:white;
-                text-align:center;
-            }
-            #carousel_div {
+#header {
+    
+    background-color:black;
+    color:white;
+    text-align:center;
+}
+#carousel_div {
 
-                height:780px;
-                width:100%;
-                margin-top: 35px;
-            }
-            
-            .item{
+    height:100%;
+    width:100%;
+    margin-top: 35px;
+}
 
-                height:780px ;
-            }
+.item{
 
-            .carousel{
-                margin-top: 15px;
-                height: 780px ;
-            }
+    height:100% ;
+}
 
-            #services {
-                
-                background-color: #286090;
-                color:white;
-                text-align:center;   
-            }
-            
-            .primary{
-                
-                width: 100px;
-            }
-            
-            #about {
-                
-                background-color: #4cae4c;
-                color:white;
-                text-align:center;   
-            }
-            
-            #footer {
-                background-color:black;
-                color:white;
-                clear:both;
-                text-align:center;
-               padding:5px;	 	 
-            }
+.carousel{
+    margin-top: 15px;
+    height: 100% ;
+}
+
+#services {
+    
+    background-color: #286090;
+    color:white;
+    text-align:center;   
+}
+
+.primary{
+    
+    width: 100px;
+}
+
+#about {
+    
+    background-color: #4cae4c;
+    color:white;
+    text-align:center;   
+}
+
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+
+.services-text {
+    font-size: 17px;
+    font-weight: 100;
+}
